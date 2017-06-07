@@ -1,6 +1,6 @@
 Practice Projects
 
-##Table of Contents
+## Table of Contents
 
 -[Text Manipulation](github.com/so0p/PracticeProjects)
 
