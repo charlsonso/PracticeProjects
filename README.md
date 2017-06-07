@@ -1,8 +1,8 @@
 Practice Projects
 
-Inspired by [Karan/Projects](github.com/Projects)
+Inspired by [Karan/Projects](https://github.com/Projects)
 
-Follow me on twitter [@charlsonso](twitter.com/charlsonso)
+Follow me on twitter [@charlsonso](https://twitter.com/charlsonso)
 
 ## Table of Contents
 
