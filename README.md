@@ -1,4 +1,4 @@
-Practice Projects
+##Practice Projects
 
 Inspired by [Karan/Projects](https://github.com/Karan/Projects)
 
