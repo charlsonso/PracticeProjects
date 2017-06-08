@@ -23,3 +23,4 @@ Check if Palindrome - Checks if the string entered by the user is a palindrome. 
 
 Count Words in a String - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
+White Paper - Text Editor in Python (uses tkinter) Inspired by [KnowPapa.com](http://knowpapa.com/text-editor/)
